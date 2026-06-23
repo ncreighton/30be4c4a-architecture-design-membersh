@@ -1,2 +1,28 @@
-# 30be4c4a-architecture-design-membersh
-What if add powerful functionality to WordPress without writing code took minutes instead of hours?  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Architecture &amp; Design Membership And Access Control — fully configured and ready to use - Cl
+# Architecture & Design Membership and Access Control WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00weVd6mX0bWaNO1ZicZw2m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00weVd6mX0bWaNO1ZicZw2m)
+
